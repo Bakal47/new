@@ -1,0 +1,9 @@
+services:
+  - type: static_site
+    name: germano-martins-site
+    rootDir: public
+    buildCommand: ""
+    staticPublishPath: .
+    envVars:
+      - key: NODE_VERSION
+        value: 18
