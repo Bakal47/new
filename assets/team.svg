@@ -1,0 +1,27 @@
+<svg width="800" height="520" viewBox="0 0 800 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="520" rx="42" fill="#03070F"/>
+<defs>
+<linearGradient id="holo" x1="120" y1="140" x2="680" y2="420" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0DCAF0" stop-opacity="0.35"/>
+<stop offset="1" stop-color="#051024" stop-opacity="0.6"/>
+</linearGradient>
+</defs>
+<rect x="120" y="120" width="560" height="320" rx="30" fill="url(#holo)" stroke="#102038" stroke-width="2"/>
+<path d="M200 360C248 310 300 268 360 248C420 228 480 240 540 280C600 320 660 360 700 368" stroke="#0DCAF0" stroke-width="3" stroke-linecap="round" stroke-dasharray="14 18"/>
+<circle cx="240" cy="280" r="48" fill="#071022" stroke="#1A2E4A" stroke-width="2"/>
+<circle cx="240" cy="280" r="20" fill="#0DCAF0" fill-opacity="0.5"/>
+<circle cx="360" cy="240" r="42" fill="#071022" stroke="#1A2E4A" stroke-width="2"/>
+<circle cx="360" cy="240" r="16" fill="#66F7FF" fill-opacity="0.6"/>
+<circle cx="460" cy="280" r="36" fill="#071022" stroke="#1A2E4A" stroke-width="2"/>
+<circle cx="460" cy="280" r="14" fill="#0DCAF0" fill-opacity="0.5"/>
+<circle cx="560" cy="260" r="44" fill="#071022" stroke="#1A2E4A" stroke-width="2"/>
+<circle cx="560" cy="260" r="18" fill="#66F7FF" fill-opacity="0.55"/>
+<path d="M220 360H620" stroke="#0DCAF0" stroke-opacity="0.3" stroke-width="2" stroke-dasharray="10 14"/>
+<rect x="200" y="380" width="120" height="24" rx="12" fill="#0DCAF0" fill-opacity="0.25"/>
+<rect x="344" y="380" width="140" height="24" rx="12" fill="#0DCAF0" fill-opacity="0.25"/>
+<rect x="508" y="380" width="140" height="24" rx="12" fill="#0DCAF0" fill-opacity="0.25"/>
+<circle cx="200" cy="160" r="18" fill="#0DCAF0" fill-opacity="0.45"/>
+<circle cx="640" cy="160" r="24" fill="#66F7FF" fill-opacity="0.4"/>
+<path d="M260 160L320 120" stroke="#66F7FF" stroke-width="3" stroke-linecap="round" stroke-dasharray="12 16"/>
+<path d="M520 140L600 100" stroke="#0DCAF0" stroke-width="3" stroke-linecap="round" stroke-dasharray="12 16"/>
+</svg>
